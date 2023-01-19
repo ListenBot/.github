@@ -1,6 +1,6 @@
-# Listen Music
+# Listen
 
-Um bot de música simples para o discord, com seu próprio wrapper de música tem um processamento mais rápido e leve, proporcionando uma melhor qualidade de áudio sem lags.
+Uma bot de música simples para o discord, com seu próprio wrapper de música tem um processamento mais rápido e leve, proporcionando uma melhor qualidade de áudio sem lags.
 
 # Contribuia
 
