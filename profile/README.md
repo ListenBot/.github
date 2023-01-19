@@ -4,4 +4,4 @@ Um bot de música simples para o discord, com seu próprio wrapper de música te
 
 # Contribuia
 
-[Entre aqui se você quiser contribuir para o nosso bot.](https://discord.gg/yXK4QadCkb)
+[Entre no nosso servidor do discord se você quiser contribuir para o nosso bot.](https://discord.gg/yXK4QadCkb)
